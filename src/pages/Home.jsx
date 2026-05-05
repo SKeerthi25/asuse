@@ -263,8 +263,8 @@ export default function Home() {
                  <div className="space-y-4 mt-8">
                    <div className="bg-slate-800 p-8 rounded-3xl text-center border border-slate-700">
                      <Trophy size={40} className="mx-auto text-brand-400 mb-4" />
-                     <h4 className="text-4xl font-black text-white mb-2">15+</h4>
-                     <p className="text-sm font-semibold text-slate-400">Years Experience</p>
+                     <h4 className="text-4xl font-black text-white mb-2">24/7</h4>
+                     <p className="text-sm font-semibold text-slate-400">Expert Support</p>
                    </div>
                    <div className="rounded-3xl overflow-hidden border border-slate-700">
                      <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=2070&auto=format&fit=crop" className="w-full h-48 object-cover hover:scale-110 transition-transform duration-700" alt="Corporate IT Infrastructure" />
