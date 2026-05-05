@@ -67,7 +67,7 @@ export default function Services() {
     {
       icon: Database,
       title: "IT Hardware Asset Recovery",
-      image: "https://images.unsplash.com/photo-1624835252877-c9f5ed2ba7ea?q=80&w=2070&auto=format&fit=crop",
+      image: "/services/asset_recovery.png",
       desc: "Secure decommissioning, data wiping, and environmentally compliant recycling of aging IT infrastructure."
     },
     {

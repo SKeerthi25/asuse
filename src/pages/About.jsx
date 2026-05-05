@@ -39,13 +39,16 @@ export default function About() {
             <h2 className="text-3xl font-bold mb-6">Our Story</h2>
             <div className="space-y-4 text-slate-600 dark:text-slate-400 text-lg leading-relaxed">
               <p>
-                Based in Hayes, London, ASUSE LTD has established itself as a premier wholesale distributor of computers, peripheral equipment, and software solutions.
+                Based in Hayes, London, ASUSE LTD has established itself as a premier wholesale distributor. We provide computer peripherals and software services to small and medium businesses in the UK.
               </p>
               <p>
-                Under the leadership of Director Thiyagarajan Thiruvarasu, we have built strong partnerships with major technology manufacturers, allowing us to provide cutting-edge infrastructure to businesses, educational institutions, and government sectors nationwide.
+                Our products include keyboards, mice, monitors, printers, and networking equipment from leading brands. Our software services cover installation, technical support, IT maintenance, and basic software solutions for offices.
               </p>
               <p>
-                Our commitment to reliability, competitive pricing, and exceptional customer service has made us the trusted IT partner for hundreds of organizations.
+                Our main customers are local businesses, schools, and home-office users in Birmingham and the West Midlands. We market through our website, Google Ads, referrals, and partnerships with local IT firms. We trade across the UK, both online and through direct delivery.
+              </p>
+              <p>
+                Under the leadership of Director Thiyagarajan Thiruvarasu, our commitment to reliability, competitive pricing, and exceptional customer service has made us a trusted IT partner for organizations nationwide.
               </p>
             </div>
           </motion.div>
