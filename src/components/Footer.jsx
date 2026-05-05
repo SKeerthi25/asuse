@@ -29,11 +29,6 @@ export default function Footer() {
             <p className="text-sm leading-relaxed text-slate-400 pr-4">
               Powering your technology needs with premium IT wholesale distribution, bulk supply solutions, and enterprise software.
             </p>
-            <div className="flex gap-4 font-semibold">
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">LinkedIn</a>
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">Twitter</a>
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">Facebook</a>
-            </div>
           </div>
 
           {/* Quick Links */}
